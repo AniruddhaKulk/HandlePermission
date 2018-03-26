@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="external_storage_and_camera_permission">Please provide External storage and Camera permissions</string>
+    <string name="app_permission_camera_storage">App needs access to external storage and camera for selecting photo</string>
+</resources>
